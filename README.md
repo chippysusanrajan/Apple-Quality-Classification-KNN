@@ -105,13 +105,10 @@ This project demonstrates practical skills in:
 ## 🚀 How to Run This Project
 
 1. Clone the repository:
-```bash
-git clone https://github.com/chippysusanrajan/apple_quality_knn.git
-exit 0
 
-2. Install dependencies:  
+git clone https://github.com/chippysusanrajan/Apple-Quality-Classification-KNN.git
 
-pip install -r requirements.txt  
+2. Install dependencies
 
 3. Run the notebook or script to train and evaluate the model.
 
