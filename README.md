@@ -88,9 +88,7 @@ The model was evaluated on unseen test data using:
 ├── data/  
 │   └── apple_quality.csv  
 ├── notebooks/  
-│   └── apple_quality_knn.ipynb  
-├── src/  
-│   └── knn_model.py  
+│   └── apple_quality_knn.ipynb    
 ├── README.md  
 
 ---
