@@ -106,5 +106,28 @@ This project demonstrates practical skills in:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/apple-quality-classification-knn.git
+git clone https://github.com/chippysusanrajan/apple_quality_knn.git
+exit 0
+
+2. Install dependencies:  
+
+pip install -r requirements.txt  
+
+3. Run the notebook or script to train and evaluate the model.
+
+---
+
+
+---
+
+## 👩‍💻 Author
+**Chippy Susan Rajan**  
+Master of Data Science and Decisions, UNSW  
+📎 [LinkedIn](https://www.linkedin.com/in/chippy-susan-rajan-b1433ab2/)  
+🐙 [GitHub](https://github.com/chippysusanrajan)
+
+---
+
+## 📄 License
+This project is for academic and portfolio purposes.
 
