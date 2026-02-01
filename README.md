@@ -1,7 +1,7 @@
 # 🍎 Apple Quality Classification using K-Nearest Neighbours (KNN)
 
 ## 📌 Project Overview
-This project applies **machine learning classification techniques** to assess the quality of apples based on physical and sensory attributes.  
+This project applies **machine learning classification techniques** using Python libraries to assess the quality of apples based on physical and sensory attributes.  
 The goal is to classify apples as **“Good”** or **“Bad”**, supporting data-driven decision-making in an **agricultural quality control** context.
 
 A **K-Nearest Neighbours (KNN)** classifier was implemented and evaluated using multiple performance metrics.
