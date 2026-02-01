@@ -89,6 +89,8 @@ The model was evaluated on unseen test data using:
 │   └── apple_quality.csv  
 ├── notebooks/  
 │   └── apple_quality_knn.ipynb    
+├── report/  
+│   └── apple_quality_classification_knn_report.pdf    
 ├── README.md  
 
 ---
